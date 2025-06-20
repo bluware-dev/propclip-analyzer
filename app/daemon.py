@@ -43,7 +43,7 @@ def notify_linux(text: str):
 
 """Hotkey, Clipboard & Compatibility"""
 HOTKEY = "<ctrl>+<alt>+v" # TODO: Add global option in config!
-NOTIFY_SOUND = "src/assets/whistleronic.wav"
+NOTIFY_SOUND = "app/assets/whistleronic.wav"
 latest_clip = [None]  # Mutable without global
 
 
